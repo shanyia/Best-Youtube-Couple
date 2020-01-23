@@ -1,0 +1,41 @@
+.header {
+
+    Background-image: URL("https://cdn.hipwallpaper.com/i/75/25/KJZter.jpg");
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding:10px;
+}
+
+h1 {
+    font-family: 'Kumar One Outline', cursive;
+    color: #fc032c;
+}
+
+.info {
+    color: black;
+    border: 10px double gold;
+
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+
+body {
+    background-image: url();
+}
+
+.vote {
+    display: flex;
+    justify-content: center;
+    border: 10px dotted gold;
+    padding: 20px;
+}
+
